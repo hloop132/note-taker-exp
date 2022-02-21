@@ -19,4 +19,20 @@ My school UW and me for not giving up even though I feel like it all the time
  ![](./public/assets/note-taker.gif)
 
  ## Licence 
- none
+# Note-Taker_Exp
+
+
+## Description 
+A note taker to keep track of thing you might need to do. 
+
+## Installation 
+nmp i for express dependencies
+
+## Technologies 
+css, html, express, node, javascript
+
+## Demo 
+![](./public/assets/note-taker.gif)
+
+## Licence 
+none
