@@ -1,7 +1,7 @@
 # note-taker-exp
 
 ## Description
-A note taker
+A note taker to keep track of thing you might need to do. 
 
 ## Instruction
 Type in the note title and the note you want and save
@@ -17,22 +17,6 @@ My school UW and me for not giving up even though I feel like it all the time
 
 ## Demo
  ![](./public/assets/note-taker.gif)
-
- ## Licence 
-# Note-Taker_Exp
-
-
-## Description 
-A note taker to keep track of thing you might need to do. 
-
-## Installation 
-nmp i for express dependencies
-
-## Technologies 
-css, html, express, node, javascript
-
-## Demo 
-![](./public/assets/note-taker.gif)
 
 ## Licence 
 none
